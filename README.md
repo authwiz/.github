@@ -1,3 +1,3 @@
-## AuthVerse
+## AuthWiz
 
 ### Coming Soon
