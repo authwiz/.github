@@ -1,4 +1,4 @@
-## AuthVerse
+## AuthWiz
 
 🧙 Completely open source all in one secure single sign-on system.
 
